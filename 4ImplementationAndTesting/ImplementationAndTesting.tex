@@ -1,0 +1,53 @@
+\chapter{IMPLEMENTATION AND TESTING}
+\section{Implementation}
+"Mitho Delivery " is an online food ordering website where the users can order different types of food from different price point and quality.Using tools like HTML, CSS, JS, MYSQL, PHP we built our website to perform efficienctly and easy to use.Its not just about food but from exploring different foods from different cultures.Mitho Delivery infusing joy in every bite.
+\section{Tools Used}
+\subsection*{HTML}
+HTML (Hypertext Markup Language) is the foundation of the web. It is a markup language used to structure the content of web pages. With HTML, you can define the elements and their hierarchy, such as headings, paragraphs, images, links, and more. It provides the structure and semantics for web documents, allowing browsers to interpret and display them correctly. HTML is essential for creating the backbone of a website and forms the basis for web development.
+
+\subsection*{CSS}
+CSS (Cascading Style Sheets) is a styling language used to control the presentation and layout of web pages. It allows developers to define the visual aspects of HTML elements, such as colors, fonts, sizes, spacing, and positioning. CSS separates the design and layout from the content, enabling consistent and flexible styling across multiple pages. By using CSS, web developers can create visually appealing, responsive, and user-friendly websites, enhancing the overall user experience.
+
+\subsection*{JavaScript}
+JavaScript is a powerful scripting language that brings interactivity and dynamic functionality to web pages. It is primarily used for client-side scripting, meaning it runs directly in the user's web browser. JavaScript allows developers to manipulate and modify HTML and CSS elements, handle user interactions, validate input, perform calculations, make API calls, and much more. With its versatility and wide adoption, JavaScript has become an essential tool for building modern web applications and adding interactive features that enhance user engagement and improve the overall user experience.
+
+\subsection*{PHP}
+PHP (Hypertext Preprocessor) is a popular server-side scripting language designed for web development. It is widely used to create dynamic and interactive websites and web applications. PHP is known for its ease of use, flexibility, and compatibility with various operating systems and web servers. It allows developers to embed PHP code directly into HTML, enabling the creation of dynamic web pages. PHP supports a wide range of databases, making it suitable for building database-driven applications. It offers a vast collection of built-in functions and libraries, facilitating rapid development. PHP has a large and active community, providing extensive documentation, frameworks, and resources to support developers in building robust web solutions.
+
+\subsection*{Xampp}
+XAMPP is a cross-platform web server that is free and open-source. XAMPP is a short form for Cross-Platform, Apache, MySQL, PHP, and Perl. XAMPP is a popular cross-platform web server that allows programmers to write and test their code on a local webserver. It was created by Apache Friends, and the public can revise or modify its native source code. It includes MariaDB, Apache HTTP Server, and interpreters for PHP and Perl, among other computer languages. Because of XAMPP’s simplicity of deployment, a developer can quickly and easily install a WAMP or LAMP stack on an operating system, with the added benefit that common add-in apps like WordPress and Joomla can also be loaded.
+
+\subsection*{MySql}
+MySQL is an open-source relational database management system (RDBMS) that is widely used for storing and managing structured data. It is one of the most popular databases for web applications and is known for its reliability, scalability, and performance. MySQL supports the SQL (Structured Query Language) standard and provides a robust set of features for creating, querying, and modifying databases. It offers support for various data types, transactions, indexes, and foreign key constraints. MySQL can be easily integrated with different programming languages and frameworks, making it a versatile choice for a wide range of applications, from small-scale projects to large-scale enterprise systems.
+
+\section{Modules Used}
+\subsection*{Ajax}
+Ajax is a set of web development techniques that allow web pages to communicate with a server in the background, without requiring the entire page to be reloaded.AJAX can be used to enhance the user experience by providing real-time updates, dynamic content loading, and interactive features.
+
+\subsection*{JQuery}
+jQuery is a JavaScript library. It takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+ \newpage
+\section{Testing}
+In given below figures we are testing login with incorrect and correct authentication.
+\subsection{Unit Testing}
+Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually examine for proper operation.The main objective of unit testing is to isolate written code to test and determine if it works as intended.\\
+\textbf{Authenication Unit}\\
+Here testing different test cases of authentication system in Mitho Delivery is performed with screenshots as required results:\\
+
+\begin{table}[H]
+    \caption{Authenication Unit Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.2in}|p{2in}|p{1.2in}|}
+        \hline
+        Tests & Test Cases & Input & Output \\
+        \hline
+            1 & Incorrect Detail& Email:\url{mithodelivery@gmail.com} Password:12345678& Invalid Detail \\
+            \hline
+            2 & SignUp & Email:\url{shakyadeepankar44@gmail.com} Password:00000000 & Signed up \\
+            \hline
+            3 & Correct information In Login & Email:\url{shakyadeepankar44@gmail.com}
+            Password:00000000 & Redirects to homepage \\
+            \hline
+\end{tabular}
+\end{table}
+

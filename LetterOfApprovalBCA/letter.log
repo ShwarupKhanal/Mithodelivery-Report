@@ -1,0 +1,1407 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.6)  5 OCT 2023 13:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex
+(c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-05-15>
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:1: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \usepackage{
+                graphicx}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:2: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \usepackage{
+                tabularx}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:5: Undefined control sequence.
+l.5 \newcolumntype
+                  {Y}{>{\centering\arraybackslash}X}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \newcolumntype{Y
+                    }{>{\centering\arraybackslash}X}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no Y in font nullfont!
+Missing character: There is no > in font nullfont!
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:5: Undefined control sequence.
+l.5 \newcolumntype{Y}{>{\centering\arraybackslash
+                                                 }X}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no X in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+[] 
+ []
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:8: LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \begin{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:10: Undefined control sequence.
+l.10     \includegraphics
+                         [width=1.25in]{img/Graphics/TUlogo.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:10: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10     \includegraphics[
+                          width=1.25in]{img/Graphics/TUlogo.png}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:11: LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:13: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--13
+[] 
+ []
+
+
+Overfull \hbox (72.10818pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 Tribhuvan 
+ []
+
+
+Overfull \hbox (31.34998pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 Uni- 
+ []
+
+
+Overfull \hbox (27.5083pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 ver- 
+ []
+
+
+Overfull \hbox (25.28996pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 sity 
+ []
+
+
+Overfull \hbox (51.80823pt too wide) in paragraph at lines 19--19
+ []\OT1/cmr/bx/n/14.4 Faculty 
+ []
+
+
+Overfull \hbox (13.04999pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 of 
+ []
+
+
+Overfull \hbox (27.06665pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 Hu- 
+ []
+
+
+Overfull \hbox (35.77495pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 man- 
+ []
+
+
+Overfull \hbox (9.89998pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 i- 
+ []
+
+
+Overfull \hbox (24.58165pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 ties 
+ []
+
+
+Overfull \hbox (25.87495pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 and 
+ []
+
+
+Overfull \hbox (22.49997pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 So- 
+ []
+
+
+Overfull \hbox (24.07495pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 cial 
+ []
+
+
+Overfull \hbox (26.09996pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 Sci- 
+ []
+
+
+Overfull \hbox (37.37332pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 ences 
+ []
+
+
+Overfull \hbox (57.5249pt too wide) in paragraph at lines 19--19
+ []\OT1/cmr/bx/n/14.4 Lalitpur 
+ []
+
+
+Overfull \hbox (25.03331pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 En- 
+ []
+
+
+Overfull \hbox (17.99997pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 gi- 
+ []
+
+
+Overfull \hbox (35.79997pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 neer- 
+ []
+
+
+Overfull \hbox (21.59996pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 ing 
+ []
+
+
+Overfull \hbox (29.69995pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 Col- 
+ []
+
+
+Overfull \hbox (27.3833pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 lege 
+ []
+
+
+Overfull \hbox (65.61662pt too wide) in paragraph at lines 19--19
+ []\OT1/cmr/bx/n/14.4 LETTER 
+ []
+
+
+Overfull \hbox (22.34996pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 OF 
+ []
+
+
+Overfull \hbox (28.7pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 AP- 
+ []
+
+
+Overfull \hbox (66.81662pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/bx/n/14.4 PROVAL 
+ []
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
+[]
+ []
+
+
+Overfull \hbox (35.72208pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/10 \\OT1/cmr/bx/n/10 Mitho
+ []
+
+
+Overfull \hbox (17.92352pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 De-
+ []
+
+
+Overfull \hbox (16.29158pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 liv-
+ []
+
+
+Overfull \hbox (19.27075pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 ery:
+ []
+
+
+Overfull \hbox (17.44435pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 Joy
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (29.80544pt too wide) in paragraph at lines 23--24
+\OT1/cmr/bx/n/10 Food\OT1/cmr/m/n/10 "
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--25
+[] 
+ []
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:27: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27     \begin{tabularx}
+                         {\textwidth}{|Y|Y|}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:27: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.27     \begin{tabularx}{\textwidth}
+                                     {|Y|Y|}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:27: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.27     \begin{tabularx}{\textwidth}
+                                     {|Y|Y|}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:28: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.28         \hline
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (63.43932pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/m/n/14.4 |Y|Y| 
+ []
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:29: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.29         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:29: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:30: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.30         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:30: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:31: Misplaced alignment tab character &.
+l.31 ........................................... &
+                                                   ............................
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (254.5797pt too wide) in paragraph at lines 31--31
+ []\OT1/cmr/m/n/14.4 ................................................................. 
+ []
+
+
+Overfull \hbox (254.5797pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/n/14.4 ................................................................. 
+ []
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:32: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.32         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:32: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:33: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.33         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:33: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:34: Misplaced alignment tab character &.
+l.34         Er Sandesh Sharan Poudel &
+                                        Er Bibat Thokar \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (15.07649pt too wide) in paragraph at lines 34--34
+ []\OT1/cmr/m/n/14.4 Er 
+ []
+
+
+Overfull \hbox (50.21104pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/m/n/14.4 Sandesh 
+ []
+
+
+Overfull \hbox (27.41632pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/m/n/14.4 Sha- 
+ []
+
+
+Overfull \hbox (20.36641pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/m/n/14.4 ran 
+ []
+
+
+Overfull \hbox (42.10115pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/m/n/14.4 Poudel 
+ []
+
+
+Overfull \hbox (15.07649pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/m/n/14.4 Er 
+ []
+
+
+Overfull \hbox (34.26791pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/m/n/14.4 Bibat 
+ []
+
+
+Overfull \hbox (44.25778pt too wide) in paragraph at lines 34--34
+ \OT1/cmr/m/n/14.4 Thokar 
+ []
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:35: Misplaced alignment tab character &.
+l.35         Project Supervisor &
+                                  BCA Program Coordinator \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (45.23442pt too wide) in paragraph at lines 35--35
+ []\OT1/cmr/m/n/14.4 Project 
+ []
+
+
+Overfull \hbox (20.36641pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 Su- 
+ []
+
+
+Overfull \hbox (24.67467pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 per- 
+ []
+
+
+Overfull \hbox (16.05812pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 vi- 
+ []
+
+
+Overfull \hbox (18.09477pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 sor 
+ []
+
+
+Overfull \hbox (30.738pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 BCA 
+ []
+
+
+Overfull \hbox (26.82634pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 Pro- 
+ []
+
+
+Overfull \hbox (31.33295pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 gram 
+ []
+
+
+Overfull \hbox (21.93306pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 Co- 
+ []
+
+
+Overfull \hbox (17.23311pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 or- 
+ []
+
+
+Overfull \hbox (16.44978pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 di- 
+ []
+
+
+Overfull \hbox (19.58308pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 na- 
+ []
+
+
+Overfull \hbox (18.01643pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/m/n/14.4 tor 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:36: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36         D
+              epartment of Computer Application & Department of Computer App...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/Nitro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:36: Misplaced alignment tab character &.
+l.36         Department of Computer Application &
+                                                  Department of Computer App...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (73.82576pt too wide) in paragraph at lines 36--36
+ []\OT1/cmr/m/n/14.4 Department 
+ []
+
+
+Overfull \hbox (11.35818pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 of 
+ []
+
+
+Overfull \hbox (33.68292pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 Com- 
+ []
+
+
+Overfull \hbox (32.89958pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 puter 
+ []
+
+
+Overfull \hbox (23.10307pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 Ap- 
+ []
+
+
+Overfull \hbox (20.3664pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 pli- 
+ []
+
+
+Overfull \hbox (18.01643pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 ca- 
+ []
+
+
+Overfull \hbox (24.28302pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 tion 
+ []
+
+
+Overfull \hbox (21.73474pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 De- 
+ []
+
+
+Overfull \hbox (30.5496pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 part- 
+ []
+
+
+Overfull \hbox (30.94128pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 ment 
+ []
+
+
+Overfull \hbox (11.35818pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 of 
+ []
+
+
+Overfull \hbox (33.68292pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 Com- 
+ []
+
+
+Overfull \hbox (32.89958pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 puter 
+ []
+
+
+Overfull \hbox (23.10307pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 Ap- 
+ []
+
+
+Overfull \hbox (20.3664pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 pli- 
+ []
+
+
+Overfull \hbox (18.01643pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 ca- 
+ []
+
+
+Overfull \hbox (24.28302pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/m/n/14.4 tion 
+ []
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:37: Misplaced alignment tab character &.
+l.37         Lalitpur Engineering College &
+                                            Lalitpur Engineering College \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (50.32603pt too wide) in paragraph at lines 37--37
+ []\OT1/cmr/m/n/14.4 Lalitpur 
+ []
+
+
+Overfull \hbox (22.1264pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 En- 
+ []
+
+
+Overfull \hbox (15.66646pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 gi- 
+ []
+
+
+Overfull \hbox (30.5496pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 neer- 
+ []
+
+
+Overfull \hbox (18.79976pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 ing 
+ []
+
+
+Overfull \hbox (25.84967pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 Col- 
+ []
+
+
+Overfull \hbox (23.4997pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 lege 
+ []
+
+
+Overfull \hbox (24.47636pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 Lal- 
+ []
+
+
+Overfull \hbox (14.09981pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 it- 
+ []
+
+
+Overfull \hbox (21.14973pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 pur 
+ []
+
+
+Overfull \hbox (22.1264pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 En- 
+ []
+
+
+Overfull \hbox (15.66646pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 gi- 
+ []
+
+
+Overfull \hbox (30.5496pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 neer- 
+ []
+
+
+Overfull \hbox (18.79976pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 ing 
+ []
+
+
+Overfull \hbox (25.84967pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 Col- 
+ []
+
+
+Overfull \hbox (23.4997pt too wide) in paragraph at lines 37--37
+ \OT1/cmr/m/n/14.4 lege 
+ []
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:38: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.38         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:38: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:39: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.39         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:39: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:40: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.40         \hline
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:41: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.41         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:41: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:42: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.42         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:42: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:43: Misplaced alignment tab character &.
+l.43 ........................................... &
+                                                   ............................
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (254.5797pt too wide) in paragraph at lines 43--43
+ []\OT1/cmr/m/n/14.4 ................................................................. 
+ []
+
+
+Overfull \hbox (254.5797pt too wide) in paragraph at lines 43--43
+ \OT1/cmr/m/n/14.4 ................................................................. 
+ []
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:44: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.44         &
+               \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:44: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44         & \\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:45: Misplaced alignment tab character &.
+l.45         Internal Examiner &
+                                 External Examiner \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (48.56107pt too wide) in paragraph at lines 45--45
+ []\OT1/cmr/m/n/14.4 Internal 
+ []
+
+
+Overfull \hbox (21.73474pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 Ex- 
+ []
+
+
+Overfull \hbox (23.49971pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 am- 
+ []
+
+
+Overfull \hbox (23.4997pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 iner 
+ []
+
+
+Overfull \hbox (21.73474pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 Ex- 
+ []
+
+
+Overfull \hbox (21.93304pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 ter- 
+ []
+
+
+Overfull \hbox (18.79976pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 nal 
+ []
+
+
+Overfull \hbox (21.73474pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 Ex- 
+ []
+
+
+Overfull \hbox (23.49971pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 am- 
+ []
+
+
+Overfull \hbox (23.4997pt too wide) in paragraph at lines 45--45
+ \OT1/cmr/m/n/14.4 iner 
+ []
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:46: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.46         \hline
+                   
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:47: LaTeX Error: \begin{center} on input line 25 ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47     \end{tabularx}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:48: LaTeX Error: \begin{center} on input line 25 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     \end{table}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:48: Missing } inserted.
+<inserted text> 
+                }
+l.48     \end{table}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:49: Too many }'s.
+l.49 }
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:50: LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \end{center}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/Nitro/Desktop/template/LetterOfApprovalBCA/letter.tex:50: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.50 \end{center}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+)
+! Emergency stop.
+<*> ...top/template/LetterOfApprovalBCA/letter.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 35 strings out of 476411
+ 724 string characters out of 5789135
+ 1855845 words of memory out of 5000000
+ 20488 multiletter control sequences out of 15000+600000
+ 513200 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,6n,23p,456b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
